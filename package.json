@@ -14,5 +14,8 @@
   ],
   "author": "",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "botkit": "0.0.5"
+  }
 }
